@@ -13,7 +13,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/RicheTechGuy
 [2]: https://www.linkedin.com/in/jonathan-riche-70bbba31
 
-[![Jonathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanRiche&theme=onedark)](https://github.com/JonathanRiche/github-readme-stats)
+[![Jonathans's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanRiche&theme=onedark&count_private=true)](https://github.com/JonathanRiche/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanRiche&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
