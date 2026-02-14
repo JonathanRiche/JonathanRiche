@@ -13,6 +13,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/RicheTechGuy
 [2]: https://www.linkedin.com/in/jonathan-riche-70bbba31
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanRiche)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 
 
 
